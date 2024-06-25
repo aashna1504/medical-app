@@ -10,7 +10,7 @@ function Awards() {
         <img
           className="w-[200px]"
           src={
-            "https://th.bing.com/th/id/OIP.4OucOOmQaZxOq1K9yV_J-gAAAA?w=360&h=360&rs=1&pid=ImgDetMain"
+            "https://th.bing.com/th/id/OIP.n_cNHry9UJWPkAXjatISxAHaEx?rs=1&pid=ImgDetMain"
           }
           alt=""
         />
