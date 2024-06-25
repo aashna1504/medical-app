@@ -3,7 +3,7 @@ import React from "react";
 function Dream() {
   return (
     <>
-      <div className="font-['Montserrat'] flex py-10 gap-10 justify-between max-w-[1600px] mx-auto">
+      <div className="font-['Montserrat'] flex py-10 gap-10 justify-between max-w-[1600px] mx-auto items-center">
         <div className="p-10">
           <p className="text-[37px] text-[#272a68] font-semibold leading-7">
             Achieve Your
@@ -26,7 +26,7 @@ function Dream() {
         </div>
         <div>
           <img
-            className="w-[750px] h-[400px] mt-6"
+            className="w-[750px] h-[400px]"
             src={
               "https://images.healthshots.com/healthshots/en/uploads/2022/01/09140918/speech.jpg"
             }
@@ -34,10 +34,10 @@ function Dream() {
           />
         </div>
       </div>
-      <div className="font-['Montserrat'] flex p-10 justify-between max-w-[1600px] mx-auto">
+      <div className="font-['Montserrat'] flex p-10 justify-between max-w-[1600px] mx-auto items-center">
         <div>
           <img
-            className="w-[670px] h-[400px] mt-6"
+            className="w-[670px] h-[400px]"
             src={
               "https://embedsocial.com/wp-content/uploads/2022/02/advertising-testimonials-examples.jpg"
             }

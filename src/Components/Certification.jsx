@@ -21,10 +21,10 @@ function Certification() {
           Joint Commission Certification
           </p>
           <p className="text-[11px] mt-2 w-[800px] leading-5">
-          Avant is a Joint Commission Accredited Staffing Agency. The public may contact The Joint Commission’s Office of Quality Monitoring to report any concerns or register complaints about a Joint Commission-certified organization by calling 1.800.994.6610 or emailing complaint@jointcommission.org. Complaints may also be made online.
+          Avant is a Joint Commission Accredited Staffing Agency. The public may contact The Joint Commissions Office of Quality Monitoring to report any concerns or register complaints about a Joint Commission-certified organization by calling 1.800.994.6610 or emailing complaint@jointcommission.org. Complaints may also be made online.
           </p>
           </div>
-          <div className="flex gap-5 items-center mx-[8rem]">
+          <div className="flex gap-5 items-center mx-[5rem]">
           <IoIosArrowDropup size={70}/>
           </div>
           <div className="flex gap-5">

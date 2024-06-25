@@ -5,7 +5,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 function Header() {
   return (
     <>
-    <div className="bg-[#233199] font-['Montserrat'] text-[18px] font-semibold text-white items-center p-4 flex justify-center cursor-pointer">
+    <div className="bg-[#233199] font-['Montserrat'] text-[16px] font-semibold text-white items-center p-4 flex justify-center cursor-pointer">
       PRIVACY ALERT: Protection of your privacy is vital. Learn how Avant
       Healthcare Professionals is working to protect your privacy during the job
       application process. Learn More
@@ -25,7 +25,7 @@ function Header() {
         <p className="text-[13px] font-semibold cursor-pointer">CORPORATE CAREERS</p>
         <IoSearch size={20} className="text-[#233199] hover:text-[#075af2]"/>
         </div>
-      <div className="text-[#262966] text-[20px] flex gap-14 cursor-pointer mt-8 items-center font-semibold transition duration-300 ease-in-out">
+      <div className="text-[#262966] text-[20px] flex gap-14 cursor-pointer mt-7 items-center font-semibold transition duration-300 ease-in-out">
        <p className="hover:text-[#075af2]">Healthcare Professionals</p>
        <p className="hover:text-[#075af2]">Healthcare Organizations</p>
        <p className="hover:text-[#075af2]">About Us </p>

@@ -13,7 +13,7 @@ function Blog() {
         </p>
       </div>
       <div className="flex p-10 justify-center max-w-[1800px] gap-12">
-        <div className="flex flex-col max-w-[690px] hover:cursor-pointer">
+        <div className="flex flex-col w-[50%] hover:cursor-pointer">
           <img
             className="w-[690px] hover:cursor-pointer"
             src={
@@ -31,7 +31,7 @@ function Blog() {
           </p>
         </div>
 
-        <div className="flex flex-col max-w-[690px] hover:cursor-pointer">
+        <div className="flex flex-col w-[50%] hover:cursor-pointer">
           <img
             className="w-[690px] hover:cursor-pointer"
             src={
