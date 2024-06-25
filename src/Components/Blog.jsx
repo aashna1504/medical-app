@@ -15,7 +15,7 @@ function Blog() {
       <div className="flex p-10 justify-center max-w-[1800px] gap-12">
         <div className="flex flex-col w-[50%] hover:cursor-pointer">
           <img
-            className="w-[690px] hover:cursor-pointer"
+            className="w-[100%] h-[300px] hover:cursor-pointer bg-cover"
             src={
               "https://avanthealthcare.com/core/fileparse.php/116/urlt/visa-bulletin-blog.jpg"
             }
@@ -33,7 +33,7 @@ function Blog() {
 
         <div className="flex flex-col w-[50%] hover:cursor-pointer">
           <img
-            className="w-[690px] hover:cursor-pointer"
+            className="w-[100%] h-[300px] hover:cursor-pointer bg-cover"
             src={
               "https://avanthealthcare.com/core/fileparse.php/116/urlt/AEP-Featured-Image.png"
             }
@@ -52,7 +52,7 @@ function Blog() {
           </p>
         </div>
       </div>
-      <p className="text-[18px] text-[#093fdc] mt-7 text-center underline font-bold cursor-pointer">
+      <p className="text-[18px] text-[#093fdc] mt-7 text-center underline font-bold cursor-pointer hover:underline-offset-0">
             More blog posts
       </p>
     </div>
