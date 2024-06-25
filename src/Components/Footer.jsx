@@ -2,12 +2,12 @@ import React from "react";
 
 function Footer() {
   return (
-    <>
+    <div className="bg-[#1f1e1e]">
       <div className="bg-[#151f6d] font-['Montserrat'] text-[21px] font-semibold text-white items-center p-4 flex justify-center cursor-pointer">
         POEA License Number: POEA-040-LB-061914-PA • EDI Staffbuilders
         International
       </div>
-      <div className="bg-[#1f1e1e] font-['Montserrat'] text-white grid grid-cols-4 max-w-[1900px] py-20 pl-[12rem]">
+      <div className="font-['Montserrat'] text-white grid grid-cols-4 w-[80%] py-20 mx-auto">
         <div>
         <img
           className="w-[200px]"
@@ -107,7 +107,7 @@ function Footer() {
           </div>
 
       </div>
-    </>
+    </div>
   );
 }
 
