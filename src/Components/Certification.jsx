@@ -9,7 +9,7 @@ import { FaInstagram } from "react-icons/fa";
 function Certification() {
   return (
     <div className="bg-black">
-      <div className=" font-['Montserrat'] text-white flex justify-between py-20 max-w-[1600px] mx-auto">
+      <div className=" font-['Montserrat'] text-white grid grid-cols-2 justify-between p-10 max-w-[1600px] mx-auto">
         <div className="flex flex-row gap-10 items-center">
           <img
             className="w-[80px] h-[80px]"
