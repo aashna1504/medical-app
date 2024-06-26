@@ -21,7 +21,7 @@ function Certification() {
             "text-[19px] font-bold">
               Joint Commission Certification
             </p>
-            <p className="text-[11px] mt-2 w-[80%] leading-5">
+            <p className="text-[11px] mt-2 w-[95%] leading-5">
               Avant is a Joint Commission Accredited Staffing Agency. The public
               may contact The Joint Commissions Office of Quality Monitoring to
               report any concerns or register complaints about a Joint
